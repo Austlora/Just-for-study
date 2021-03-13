@@ -1,0 +1,31 @@
+超文本标记语言
+html	htm
+层叠样式表
+<!doctype html>
+<html>
+	<head>
+	</head>
+	<body>
+	</body>
+</html>
+
+<br>
+<h1></h1>
+<hn></hn>(n:1~6)
+font-family
+italic
+font-weight:bold
+
+text-indent:2em
+
+decoration
+obera
+through
+
+underline
+lone
+
+div
+span
+
+a:herf blank
